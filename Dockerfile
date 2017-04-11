@@ -13,5 +13,3 @@ RUN usermod -a -G staff,docker jenkins
 RUN install-plugins.sh antisamy-markup-formatter matrix-auth pipeline-model-definition blueocean:1.0.0
 
 USER jenkins
-
-RUN mkdir -p /var/jenkins_home
