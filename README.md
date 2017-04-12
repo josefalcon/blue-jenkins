@@ -1,6 +1,12 @@
 # blue-jenkins
 Dockerfile for running Jenkins Blue Ocean in a container
 
+## What's Included
+
+- git
+- git-lfs
+- docker
+- docker-compose
 
 ## Running
 
